@@ -1,1 +1,28 @@
+ul{
+    margin-left:50% ;
+}
+
+ul li{
+    padding-left: 15%;
+}
+
+h3{
+    color: black;
+}
+
+p{
+    color: gray;
+}
+
+button{
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 20px 12px 15px;    
+}
+
+.carousel-inner p{
+    text-align: justify;
+}
+
 
